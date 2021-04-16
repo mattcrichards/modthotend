@@ -6,7 +6,7 @@ Be that as it may, I was mid-covid lockdown and the printer had become a much ne
 
 I began with research:
 1. [I found this reddit post](https://www.reddit.com/r/newmatter/comments/85ezj8/upgrading_the_hotend_on_my_modt/)
-2. [And this guide to which it linked](https://imgur.com/gallery/ApFvX)
+2. [And the guide to which it linked](https://imgur.com/gallery/ApFvX)
 
 Herein you will find a description of what I did to get my MOD-t up and running again. 
 
