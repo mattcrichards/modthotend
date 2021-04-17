@@ -1,4 +1,8 @@
-My New Matter MOD-t hot end failed. Perhaps yours did too... 
+My New Matter MOD-t hot end failed. Perhaps yours did too... Head over to the [wiki](https://github.com/mattcrichards/modthotend/wiki) to learn about how I got my printer working again. 
+
+
+Background
+----------
 
 Having no experience with 3D printing, I inherited a MOD-t and started my journey. [After getting it all set up](https://github.com/mattcrichards/modthotend/wiki/Initial-Setup) I managed a handful of prints with moderate success before having the clog of all clogs.
 
@@ -12,4 +16,8 @@ Be that as it may, I was mid-covid lockdown and the printer had become a much ne
 
 It should be noted that, having gotten the printer operational with the new hot end, I continued to have issues unloading filament, just as I did when using New Matter's hot end. I subsequently learned that in response to others reporting the same issue, New Matter ultimately advised users to stop unloading filament entirely. As such, I have taken to leaving my filament loaded, and when I need to change filament I simply cut the existing filament and use the "Load Filament" function to feed the new roll in, letting it extrude until I see the new color. 
 
-Disclaimer: While this process worked for me, I make no claims as to it's effectiveness, safety or otherwise. Should you choose to follow any of the guidance provided here, you do so at your own risk... you and only you are responsible for the proper operation of your printer! 
+
+Disclaimer
+----------
+
+While this process worked for me, I make no claims as to it's effectiveness, safety or otherwise. Should you choose to follow any of the guidance provided here, you do so at your own risk... you and only you are responsible for the proper operation of your printer! 
