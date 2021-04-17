@@ -6,4 +6,6 @@ Be that as it may, I was mid-covid lockdown and the printer had become a much ne
 
 [Over on the wiki](https://github.com/mattcrichards/modthotend/wiki) you will find a description of what I used, what I did and what I didn't do to get my MOD-t up and running again. 
 
+Having gotten the printer operational with the new hot end, I continued to have issues unloading filament. I subsequently learned that in response to others reporting the same issue, "near the end" New Matter advised users to stop unloading filament entirely. As such, I have taken to leaving my filament loaded, and when I need to change filament I simply cut the existing filament and use the "Load Filament" function to feed the new roll in, letting it extrude until I see the new color. 
+
 Disclaimer: While this process worked for me, I make no claims as to it's effectiveness, safety or otherwise. Should you choose to follow these steps, you do so at your own risk... 
