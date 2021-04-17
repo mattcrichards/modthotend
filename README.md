@@ -2,7 +2,7 @@ My New Matter MOD-t hot end failed. Perhaps yours did too...
 
 Having no experience with 3D printing, I inherited a MOD-t and started my journey. [After getting it all set up](https://github.com/mattcrichards/modthotend/wiki/Initial-Setup) I managed a handful of prints with moderate success before having the clog of all clogs which melted through what I assume was a PTFE liner in the proprietary throat of New Matter's proprietary hot end. Despite a thorough search, I could not find PTFE with the interior and exterior diameter that worked with New Matter's throat. New Matter wasn't much help, seeing as it didn't exist anymore, so I was up the creek without a... hot end.
 
-[clog](https://github.com/mattcrichards/modthotend/blob/main/images/clog.jpg)
+![clog](https://github.com/mattcrichards/modthotend/blob/main/images/clog.jpg)
 
 At the bottom of the image above you will see melted filament clogged within the deformed PTFE liner. 
 
