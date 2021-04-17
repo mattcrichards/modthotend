@@ -8,7 +8,7 @@ Having no experience with 3D printing, I inherited a MOD-t and started my journe
 
 ![clog](https://github.com/mattcrichards/modthotend/blob/main/images/clog.jpg)
 
-At the bottom of the image above you will see filament which melted through what I assume was a PTFE liner in the proprietary throat of New Matter's proprietary hot end. Despite a thorough search, I could not find PTFE with the interior and exterior diameter that worked with New Matter's throat. New Matter wasn't much help, seeing as it didn't exist anymore, so I was up the creek without a... hot end.
+At the bottom of the image above you will see filament which melted and deformed what I assume was a PTFE liner in the proprietary throat of New Matter's proprietary hot end. Despite a thorough search, I could not find PTFE with the interior and exterior diameter that worked with New Matter's throat. New Matter wasn't much help, seeing as it didn't exist anymore, so I was up the creek without a... hot end.
 
 Be that as it may, I was mid-covid lockdown and the printer had become a much needed source of interest and entertainment for me and my kids. As such, I set out to build a replacement hot end to get the printer up and running once again. 
 
