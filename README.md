@@ -4,7 +4,7 @@ My New Matter MOD-t hot end failed. Perhaps yours did too... Head over to the [w
 Background
 ----------
 
-Having no experience with 3D printing, I inherited a MOD-t and started my journey. [After getting it all set up](https://github.com/mattcrichards/modthotend/wiki/Initial-Setup) I managed a handful of prints with moderate success before having the clog of all clogs.
+Having no experience with 3D printing, I inherited a MOD-t and started my journey. [After getting it all set up](https://github.com/mattcrichards/modthotend/wiki/Initial-Printer-Setup) I managed a handful of prints with moderate success before having the clog of all clogs.
 
 ![clog](https://github.com/mattcrichards/modthotend/blob/main/images/clog.jpg)
 
