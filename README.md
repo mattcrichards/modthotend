@@ -20,4 +20,4 @@ It should be noted that, having gotten the printer operational with the new hot 
 Disclaimer
 ----------
 
-While this process worked for me, I make no claims as to it's effectiveness, safety or otherwise. Should you choose to follow any of the guidance provided here, you do so at your own risk... you and only you are responsible for the proper operation of your printer! 
+While this process worked for me, I make no claims as to it's effectiveness, safety or otherwise. Should you choose to follow any of the guidance provided here, you do so at your own risk... you and only you are responsible for the safe and proper operation of your printer! 
